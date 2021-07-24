@@ -5,3 +5,6 @@ a simple version of the polyfill for finally method of a
 promise, this polyfill comes from You don't know JS book:
 
 https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch1.md
+
+Live version:
+https://codesandbox.io/s/github/slaverise/training-promise-finally-polyfill/tree/main/?file=/README.md
