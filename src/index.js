@@ -1,11 +1,5 @@
 /* eslint-disable */
 
-/*
-  This code is meant to learn more about promises by testing 
-  a simple version of the polyfill for finally method of a 
-  promise
-*/
-
 Promise.prototype.finally = function (callback) {
   return this.then(
     function success(v) {
